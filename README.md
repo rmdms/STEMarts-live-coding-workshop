@@ -1,1 +1,33 @@
-# live-coding-workshop
+# Stemarts Lab | Media Files for live coding workshop
+
+**Official Stemarts Lab repository** containing media files (images/videos).
+
+## 📁 Structure
+medias/
+├── image01.jpg
+├── video01.mp4
+├── image02.png
+└── ...
+
+## 🔗 Direct Raw URLs
+Use these HTTPS direct links:
+
+**General format:**
+https://raw.githubusercontent.com/AgnesChavez/live-coding-workshop/main/medias/FILENAME
+
+**Examples:**
+- Image: `https://raw.githubusercontent.com/AgnesChavez/live-coding-workshop/main/medias/image01.jpg`
+- Video: `https://raw.githubusercontent.com/AgnesChavez/live-coding-workshop/main/medias/video01.mp4`
+
+**Replace `AgnesChavez/live-coding-workshop` with your actual repo.**
+
+## 🚀 Instructions
+1. Open file in `/medias/`
+2. Click **Raw** 
+3. Copy URL
+
+## ⚠️ Limits
+- Files up to 100MB recommended
+
+## 📄 License
+CC0 1.0 Universal - Free to use
